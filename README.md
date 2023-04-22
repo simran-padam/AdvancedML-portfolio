@@ -1,1 +1,1 @@
-## Advanced Machine Learning class GR5074 
+## GR5074 : Advanced Machine Learning 
